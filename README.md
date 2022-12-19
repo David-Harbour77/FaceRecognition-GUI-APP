@@ -29,7 +29,6 @@ https://www.youtube.com/embed/3EBdT-0gvu8
 ```sh
 $ pip install -r  requirements.txt
 ```
-
 2 : Run The App 
 
 ```sh
