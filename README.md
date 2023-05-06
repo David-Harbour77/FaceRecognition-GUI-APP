@@ -20,7 +20,6 @@ https://www.youtube.com/embed/3EBdT-0gvu8
   - Add Emotion detection
   - Fixed image loading in Linux 
   
-  
 # Installation
 
 1 : Install the requirements .
